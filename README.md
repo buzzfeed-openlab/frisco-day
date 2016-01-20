@@ -1,6 +1,6 @@
 # frisco-day
 
-This repository automatically updates our page for Frisco Day.
+This repository automatically updates our site for Frisco Day.
 
 If you have write access to it, you can add and edit text files to your heart's content. They'll be immediately visible at <http://callitfris.co>.
 
